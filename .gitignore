@@ -1,3 +1,8 @@
+RoadDamageDetection/
+rdd2022.zip
+data/rdd2022_yolo/
+runs/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
